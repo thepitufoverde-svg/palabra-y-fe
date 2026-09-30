@@ -1,3 +1,4 @@
-Política de privacidad de la app Palabra y Fe.
+Web pública de la app Palabra y Fe.
 
-https://thepitufoverde-svg.github.io/palabra-y-fe/privacidad.html
+- Política de privacidad: https://thepitufoverde-svg.github.io/palabra-y-fe/privacidad.html
+- Borrar la cuenta: https://thepitufoverde-svg.github.io/palabra-y-fe/borrar-cuenta.html
